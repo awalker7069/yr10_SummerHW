@@ -26,11 +26,11 @@ Once you can explain the solution you might try to write a computer program to s
 
 ####How many trips from shore to shore must the boat take?
 ```
-answer here
+The boat must take 100 trips from shore to shore, (4 steps x 25 = 100 trips).
 ```
 ####Explain you algorithm here:
 ```
-answer here
+???
 ```
 
 ##Extension
