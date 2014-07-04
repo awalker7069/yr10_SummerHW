@@ -30,7 +30,11 @@ The boat must take 100 trips from shore to shore, (4 steps x 25 = 100 trips).
 ```
 ####Explain you algorithm here:
 ```
-???
+1st step = Take both the two children accross the river in the boat.
+2nd step = Take one child back accross the river in the boat.
+3rd step = Take one of the soldiers accross the river on his own.
+4th step = Take the children back over to the right side of the river. This leaves 1 soldier on the left side and 2 children and 24 soldiers on the other.
+Repeat these four steps 25 times. This is equal to 100 journeys shore to shore.
 ```
 
 ##Extension
